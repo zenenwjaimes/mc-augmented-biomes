@@ -130,7 +130,6 @@
   "features": [
     [],
     [
-      "minecraft:lake_water",
       "minecraft:lake_lava"
     ],
     [],
@@ -171,7 +170,7 @@
       "minecraft:freeze_top_layer"
     ]
   ],
-  "scale": 0.75,
+  "scale": 1.25,
   "temperature": 0.95,
   "downfall": 0.9,
   "effects": {
@@ -186,6 +185,6 @@
     "water_fog_color": 329011
   },
   "precipitation": "rain",
-  "category": "jungle",
-  "depth": 0.45
+  "category": "mesa",
+  "depth": 1
 }

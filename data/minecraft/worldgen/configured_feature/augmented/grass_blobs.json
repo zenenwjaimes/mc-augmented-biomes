@@ -10,7 +10,10 @@
                   "Name": "minecraft:dirt"
                 },
                 "state": {
-                  "Name": "minecraft:grass_block"
+                  "Name": "minecraft:grass_block",
+                  "Properties": {
+                    "snowy": "false"
+                  }
                 },
                 "radius": {
                   "base": 3,

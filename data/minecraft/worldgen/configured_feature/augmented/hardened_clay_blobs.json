@@ -13,8 +13,8 @@
                   "Name": "minecraft:terracotta"
                 },
                 "radius": {
-                  "base": 3,
-                  "spread": 4
+                  "base": 4,
+                  "spread": 5
                 }
               },
               "name": "minecraft:netherrack_replace_blobs"

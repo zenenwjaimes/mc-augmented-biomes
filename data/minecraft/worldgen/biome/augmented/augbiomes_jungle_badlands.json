@@ -129,13 +129,13 @@
   "features": [
     [],
     [
-      "minecraft:lake_lava"
     ],
     [],
     [
       "minecraft:monster_room"
     ],
     [
+      //"augmented:waterfall"
     ],
     [],
     [
@@ -150,21 +150,21 @@
       "minecraft:ore_redstone",
       "minecraft:ore_diamond",
       "minecraft:ore_lapis",
-      "minecraft:ore_gold_extra",
       "minecraft:disk_sand",
       "minecraft:disk_clay",
       "minecraft:disk_gravel"
     ],
     [],
     [
-      "minecraft:flower_warm",
+      "augmented:tree",
       "minecraft:patch_pumpkin",
       "minecraft:patch_melon",
       "minecraft:vines",
       "augmented:hardened_clay_blobs",
       "augmented:grass_blobs",
+      "minecraft:trees_jungle_edge",
       "minecraft:patch_grass_jungle",
-      "minecraft:trees_jungle_edge"
+      "minecraft:flower_warm"
     ],
     [
       "minecraft:freeze_top_layer"
@@ -181,8 +181,8 @@
       "offset": 2.0
     },
     "fog_color": 12638463,
-    "water_color": 4159204,
-    "water_fog_color": 329011
+    "water_color": 4566514,
+    "water_fog_color": 267827
   },
   "precipitation": "rain",
   "category": "mesa",
